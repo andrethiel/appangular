@@ -1,9 +1,8 @@
 import { Component, ElementRef, ViewChild } from '@angular/core';
-import { NgStyle } from '@angular/common';
 
 @Component({
   selector: 'app-camera',
-  imports: [NgStyle],
+  imports: [],
   templateUrl: './camera.html',
   styles: ``,
 })
